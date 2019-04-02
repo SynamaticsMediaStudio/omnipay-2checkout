@@ -1,5 +1,5 @@
 {
-    "name": "collizo4sky/omnipay-2checkout",
+    "name": "synamatics/omnipay-2checkout",
     "description": "2Checkout driver for the Omnipay payment processing library",
     "keywords": [
         "omnipay",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "^3.0"
     },
     "require-dev": {
         "omnipay/tests": "~2.0",
